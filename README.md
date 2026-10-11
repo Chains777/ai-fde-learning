@@ -1,50 +1,42 @@
-\## What I learned today
+\# AI FDE Learning
 
 
 
-I learned how Git tracks changes.
+A hands-on learning journey toward becoming an AI Forward Deployed Engineer.
 
 
 
-Git workflow:
+\## Learning Roadmap
 
 
 
-Working Directory
+\- Day 1: Git and GitHub workflow
 
-→ Staging Area
+\- Day 2: FastAPI fundamentals
 
-→ Commit
-
-→ Repository
+\- Day 3: To be continued
 
 
 
-\## Feature: Login
+\## Project Structure
 
 
 
-This feature will add user login functionality.
+\- `day01-git/`: Git fundamentals, branches, and pull requests
+
+\- `day02-fastapi/`: FastAPI routes, path parameters, and query parameters
 
 
 
-\## Customer Login Requirement
+\## Learning Principles
 
 
 
-The login feature should record the user's login time.
+\- Build practical projects
 
+\- Understand the code, not just copy it
 
+\- Test changes before committing
 
-\### Implementation Plan
-
-
-
-\- Add a login API endpoint.
-
-\- Record the login timestamp after successful authentication.
-
-\- Store the timestamp in the database.
-
-\- Add tests for login timestamp recording.
+\- Use Git to track progress
 
